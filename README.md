@@ -5,13 +5,17 @@
 * rtillies@waketech.edu
 
 ### 2.	A brief description of your GitHub account
-* Your response here
+* My GitHub account includes repositories for many of the coding projects I have worked on over the last several years.
 
 ### 3.	A brief description of the repository you created
-* Your response here
+* This is the github.io repository. I can view the contents of this repository at [rtillies.github.io](https://rtillies.github.io)
 
 ### 4.	A brief description of the steps you took to clone the repository onto your local machine
 * Your response here
+
+### Included pages
+*
+
 
 ---
 
