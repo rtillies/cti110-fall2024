@@ -20,7 +20,7 @@ Richard Tillies, aka "Professor T," is an educator by trade with more than two d
 
 ### 1.	Your name and email address
 * Richard Tillies
-* rtillies.github.io
+* [rtillies.github.io](https://rtillies.github.io)
 * rtillies@waketech.edu
 
 ### 2.	A brief description of your GitHub account
