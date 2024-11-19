@@ -38,8 +38,8 @@ Richard Tillies, aka "Professor T," is an educator by trade with more than two d
 * [Home Page](index.html)
 * [Hello World](hello_world_professor.html)
 * [Python Script](professor_python_script.html)
-* [Mermaid - Guessing Game](Mermaid\Guessing.md)
-* [Flowgorithm - Add Numbers](Flowgorithm\Professor_Flowchart.png)
+* [Mermaid - Guessing Game](/Mermaid/Guessing.md)
+* [Flowgorithm - Add Numbers](/Flowgorithm/Professor_Flowchart.png)
 * [Flowgorithm - Guessing Game]()
 
 
