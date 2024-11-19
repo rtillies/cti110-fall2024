@@ -1,5 +1,7 @@
 # rtillies.github.io
 
+## CTI 110 - Lesson 5: GitHub Lab
+
 ### 1.	Your name and email address
 * Richard Tillies
 * rtillies@waketech.edu
@@ -11,10 +13,14 @@
 * This is the github.io repository. I can view the contents of this repository at [rtillies.github.io](https://rtillies.github.io)
 
 ### 4.	A brief description of the steps you took to clone the repository onto your local machine
-* Your response here
+    1. Create a new repository on GitHub.com called [rtillies.github.io](https:///github.com/rtillies/rtillies.github.io)
+    1. Select "Clone a Repository" on GitHub Desktop and select the rtillies.github.io repo
+    1. Navigate to the location of the GitHub folder in File Explorer and click Save
 
 ### Included pages
-*
+* [Home Page](index.html)
+* [Hello World](hello_world_professor.html)
+* [Python Script](professor_python_script.html)
 
 
 ---
