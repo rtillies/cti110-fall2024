@@ -1,5 +1,9 @@
 # Richard Tillies
 
+## Course Info
+* Course Name: **CTI 110 - Web Programming and Database Foundations**
+* Semester: **Fall 2024**
+
 ## About Me
 
 ### My Bio
